@@ -1,1 +1,1 @@
-# CMU_15440
+# CMU_15440 course projects
