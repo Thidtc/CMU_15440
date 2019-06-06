@@ -1,0 +1,27 @@
+{
+    "remotePath": "/home/wdl/Code/courses/cmu_15440/p0/src/github.com/cmu440/p0",
+    "host": "192.168.23.51",
+    "username": "wdl",
+    "password": "Dis123456",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}
